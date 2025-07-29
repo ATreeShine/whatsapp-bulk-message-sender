@@ -16,9 +16,9 @@ class WhatsAppNameNumberSender:
         self.contact_template_path = contact_template_path
         self.message_box_template_path = message_box_template_path
         self.contact_names = [
-            "Ahmed", "Rahman", "Hassan", "Ali", "Omar", "Karim", "Rashid", "Tariq",
-            "Mahmud", "Ibrahim", "Yusuf", "Salim", "Nasir", "Fahim", "Rahim",
-            "Shakib", "Rafi", "Salam", "Nabil", "Zahir", "Kabir", "Habib"
+            "tets", "saf", "Hassadgan", "adg", "adg", "adg", "Rashsfhid", "sfh",
+            "adg", "vn", "dgk", "zcbz", "dkh", "dudg", "vcnnnsf",
+            "jxgh", "sgj", "dhk", "dggghd", "dghsh", "sfhsh", "esr"
         ]
 
     def find_and_click(self, image_path, timeout=10, confidence=0.7, click=True):
